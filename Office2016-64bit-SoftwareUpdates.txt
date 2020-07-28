@@ -47,8 +47,6 @@ Definition Update for Microsoft Office 2016 (KB3115407) 64-Bit Edition
 Security Update for Microsoft Office 2016 (KB3213551) 64-Bit Edition
 Security Update for Microsoft Office 2016 (KB4011126) 64-Bit Edition
 Security Update for Microsoft Office 2016 (KB4011574) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB3114690) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB4484441) 64-Bit Edition
 Security Update for Microsoft Visio 2016 (KB4484244) 64-Bit Edition
 Security Update for Microsoft Access 2016 (KB4484167) 64-Bit Edition
 Security Update for Microsoft Word 2016 (KB4484300) 64-Bit Edition
