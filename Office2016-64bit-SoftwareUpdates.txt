@@ -1,7 +1,3 @@
-Security Update for Microsoft Office 2016 (KB4018319) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB4022176) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB4484258) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB4022162) 64-Bit Edition
 Update for Microsoft Office 2016 (KB4464535) 64-Bit Edition
 Update for Microsoft Office 2016 (KB4011634) 64-Bit Edition
 Update for Microsoft Office 2016 (KB4032254) 64-Bit Edition
@@ -33,25 +29,6 @@ Update for Microsoft Office 2016 (KB4484335) 64-Bit Edition
 Update for Microsoft Office 2016 (KB4484394) 64-Bit Edition
 Update for Microsoft Office 2016 (KB4022193) 64-Bit Edition
 Update for Microsoft Office 2016 (KB4032236) 64-Bit Edition
-Update for Microsoft OneNote 2016 (KB4484329) 64-Bit Edition
-Update for Microsoft OneNote 2016 (KB4475586) 64-Bit Edition
-Update for Microsoft PowerPoint 2016 (KB4484337) 64-Bit Edition
-Update for Microsoft Excel 2016 (KB4484437) 64-Bit Edition
-Security Update for Microsoft Excel 2016 (KB4484403) 64-Bit Edition
-Security Update for Microsoft Excel 2016 (KB4484273) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB4484287) 64-Bit Edition
-Security Update for Microsoft Word 2016 (KB4484438) 64-Bit Edition
-Security Update for Microsoft Outlook 2016 (KB4484433) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB3085538) 64-Bit Edition
-Definition Update for Microsoft Office 2016 (KB3115407) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB3213551) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB4011126) 64-Bit Edition
-Security Update for Microsoft Office 2016 (KB4011574) 64-Bit Edition
-Security Update for Microsoft Visio 2016 (KB4484244) 64-Bit Edition
-Security Update for Microsoft Access 2016 (KB4484167) 64-Bit Edition
-Security Update for Microsoft Word 2016 (KB4484300) 64-Bit Edition
-Security Update for Microsoft Publisher 2016 (KB4011097) 64-Bit Edition
-Update for Skype for Business 2016 (KB4484326) 64-Bit Edition
 Update for Microsoft Office 2016 (KB2920678) 64-Bit Edition
 Update for Microsoft Office 2016 (KB2920712) 64-Bit Edition
 Update for Microsoft Office 2016 (KB2920720) 64-Bit Edition
@@ -72,3 +49,26 @@ Update for Microsoft Office 2016 Language Interface Pack (KB4484136) 64-Bit Edit
 Update for Microsoft Outlook 2016 (KB4484343) 64-Bit Edition
 Update for Microsoft OneDrive for Business (KB4022219) 64-Bit Edition
 Update for Microsoft Visio Viewer 2016 (KB2920709) 64-Bit Edition
+Update for Skype for Business 2016 (KB4484326) 64-Bit Edition
+Update for Microsoft OneNote 2016 (KB4484329) 64-Bit Edition
+Update for Microsoft OneNote 2016 (KB4475586) 64-Bit Edition
+Update for Microsoft PowerPoint 2016 (KB4484337) 64-Bit Edition
+Update for Microsoft Excel 2016 (KB4484437) 64-Bit Edition
+Definition Update for Microsoft Office 2016 (KB3115407) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4018319) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4022176) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4484258) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4022162) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4484287) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB3085538) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB3213551) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4011126) 64-Bit Edition
+Security Update for Microsoft Office 2016 (KB4011574) 64-Bit Edition
+Security Update for Microsoft Excel 2016 (KB4484403) 64-Bit Edition
+Security Update for Microsoft Excel 2016 (KB4484273) 64-Bit Edition
+Security Update for Microsoft Word 2016 (KB4484438) 64-Bit Edition
+Security Update for Microsoft Outlook 2016 (KB4484433) 64-Bit Edition
+Security Update for Microsoft Visio 2016 (KB4484244) 64-Bit Edition
+Security Update for Microsoft Access 2016 (KB4484167) 64-Bit Edition
+Security Update for Microsoft Word 2016 (KB4484300) 64-Bit Edition
+Security Update for Microsoft Publisher 2016 (KB4011097) 64-Bit Edition
