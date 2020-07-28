@@ -125,7 +125,4 @@ Update for Microsoft OneDrive for Business (KB3178707) 64-Bit Edition
 Update for Microsoft OneDrive for Business (KB4022219) 64-Bit Edition
 Update for Microsoft OneNote 2016 (KB4011137) 64-Bit Edition
 Update for Microsoft PowerPoint 2016 (KB4011564) 64-Bit Edition
-Update for Microsoft Project 2016 (KB4011633) 64-Bit Edition
-Update for Microsoft Publisher 2016 (KB3178696) 64-Bit Edition
 Update for Microsoft Visio Viewer 2016 (KB2920709) 64-Bit Edition
-Update for Skype for Business 2016 (KB4011623) 64-Bit Edition
