@@ -1,3 +1,70 @@
+
+s4018319
+s4011628
+u4011634
+s4022172
+s4022176
+uod4022219
+u4011669
+u4461435
+s4022162
+u4022161
+u4462119
+u4464538
+u2920717
+s4464534
+s4475514
+u4464535
+u4032254
+u3114528
+u3141456
+u3114852
+u4011629
+u4475580
+u4484138
+u4475588
+u4484145
+u4464586
+u4484101
+u4484248
+uon4475586
+u4484106
+sa4484167
+s4484214
+sw4484300
+sv4484244
+s4484258
+spu4011097
+se4484273
+s3128012
+s4484287
+sol4484274
+uol4484343
+u4484328
+u4484327
+u4484339
+u4484325
+upp4484337
+uw4484341
+sxl4484338
+uol4484398
+uon4484329
+u4484171
+u4484392
+u4484335
+u4484394
+sxl4484403
+s4484342
+sw4484396
+uxl4484437
+u4484174
+u4484439
+
+
+
+
+Security Update for Microsoft Word 2016 (KB4484438) 64-Bit Edition
+Security Update for Microsoft Outlook 2016 (KB4484433) 64-Bit Edition
 Security Update for Microsoft Office 2016 (KB3085538) 64-Bit Edition
 Definition Update for Microsoft Office 2016 (KB3115407) 64-Bit Edition
 Security Update for Microsoft Access 2016 (KB2910978) 64-Bit Edition
@@ -20,8 +87,10 @@ Security Update for Microsoft PowerPoint 2016 (KB4011041) 64-Bit Edition
 Security Update for Microsoft Project 2016 (KB2920698) 64-Bit Edition
 Security Update for Microsoft Publisher 2016 (KB2920680) 64-Bit Edition
 Security Update for Microsoft Visio 2016 (KB3115041) 64-Bit Edition
+Security Update for Microsoft Visio 2016 (KB4484244) 64-Bit Edition
 Security Update for Microsoft Word 2016 (KB4011643) 64-Bit Edition
 Security Update for Skype for Business 2016 (KB4011159) 64-Bit Edition
+Update for Microsoft Access 2016 (KB4484439) 64-Bit Edition
 Update for Microsoft Access 2016 (KB4011221) 64-Bit Edition
 Update for Microsoft Office 2016 (KB2910954) 64-Bit Edition
 Update for Microsoft Office 2016 (KB2910990) 64-Bit Edition
@@ -63,5 +132,5 @@ Update for Microsoft OneNote 2016 (KB4011137) 64-Bit Edition
 Update for Microsoft PowerPoint 2016 (KB4011564) 64-Bit Edition
 Update for Microsoft Project 2016 (KB4011633) 64-Bit Edition
 Update for Microsoft Publisher 2016 (KB3178696) 64-Bit Edition
-Update for Microsoft Visio 2016 (KB4011215) 64-Bit Edition
+Update for Microsoft Visio Viewer 2016 (KB2920709) 64-Bit Edition
 Update for Skype for Business 2016 (KB4011623) 64-Bit Edition
